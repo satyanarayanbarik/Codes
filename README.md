@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/satyanarayanbarik/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/satyanarayanbarik/Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0792-binary-search](https://github.com/satyanarayanbarik/Codes/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/satyanarayanbarik/Codes/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/satyanarayanbarik/Codes/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
