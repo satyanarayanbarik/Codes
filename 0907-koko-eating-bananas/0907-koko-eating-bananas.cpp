@@ -1,4 +1,5 @@
-/*class Solution {
+/* THIS CODE WORKS FOR 121 TC'S BUT WITHOUT COMMENTED ONE PASSES ALL ;'-(
+class Solution {
 public:
     int findMax(vector<int>& piles){
         int maxi = INT_MIN;
