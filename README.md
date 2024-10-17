@@ -44,4 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/satyanarayanbarik/Codes/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/satyanarayanbarik/Codes/tree/master/2032-largest-odd-number-in-string) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/satyanarayanbarik/Codes/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/satyanarayanbarik/Codes/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
