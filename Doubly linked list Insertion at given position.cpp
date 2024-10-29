@@ -35,7 +35,7 @@ class Solution {
         Node *temp = head; 
         while(temp != NULL){
             
-            if(count == pos) break;
+            if(count == pos) break; // ALTERNATRE - INSTEAD OF BREAK WE CAN USE IF(COUNT == POS ) THE THE ENTIRE THING THEN ALSO IT WILL RUN
             temp = temp->next;
             count++;
             
