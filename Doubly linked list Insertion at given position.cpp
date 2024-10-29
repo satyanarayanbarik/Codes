@@ -28,6 +28,33 @@ struct Node
 // Function to insert a new node at given position in doubly linked list.
 class Solution {
   public:
+
+    //ALTERNATE FUNCTION
+    /*
+    
+        Node *addNode(Node *head, int pos, int data) {
+        // code here
+        int count = 0;
+        Node *temp = head; 
+        Node *newNode = new Node(data);
+               
+        while(temp != NULL){
+            temp = temp->next;
+            count++;
+            if(count == pos){
+               
+                newNode->prev = temp;
+                newNode->next = temp->next;
+                temp->next = newNode;
+            }
+            if (newNode->next != NULL) {
+                newNode->next->prev = newNode;
+            }    
+        }
+        return head;
+    }
+    
+    */
     // Function to insert a new node at given position in doubly linked list.
     Node *addNode(Node *head, int pos, int data) {
         // code here
